@@ -1,0 +1,14 @@
+server:
+  port: 9090
+  
+  
+spring:
+  application:
+    name: spring-rest-API 
+
+
+app:
+ messages:
+   welcomeMsg: Welcome to Ashok IT
+   greetMsg: GoodEvening
+  
